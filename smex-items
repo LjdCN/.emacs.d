@@ -1,18 +1,22 @@
 
 ;; ----- smex-history -----
 (
+ w3m
+ package-install
+ google-this-mode
+ eww
+ google-this
  package-list-packages
  cfs-edit-profile
- package-install
- cd
- 5x5
- arp
- dbx
 )
 
 ;; ----- smex-data -----
 (
- (package-install . 1)
+ (package-install . 2)
  (cfs-edit-profile . 1)
  (package-list-packages . 2)
+ (google-this . 2)
+ (eww . 1)
+ (google-this-mode . 2)
+ (w3m . 1)
 )

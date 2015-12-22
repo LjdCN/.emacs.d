@@ -1,0 +1,18 @@
+
+;; ----- smex-history -----
+(
+ package-list-packages
+ cfs-edit-profile
+ package-install
+ cd
+ 5x5
+ arp
+ dbx
+)
+
+;; ----- smex-data -----
+(
+ (package-install . 1)
+ (cfs-edit-profile . 1)
+ (package-list-packages . 1)
+)

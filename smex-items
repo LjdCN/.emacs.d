@@ -14,5 +14,5 @@
 (
  (package-install . 1)
  (cfs-edit-profile . 1)
- (package-list-packages . 1)
+ (package-list-packages . 2)
 )
